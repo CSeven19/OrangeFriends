@@ -8,13 +8,17 @@ A android app that used to record own status, & notes & draw cards
 
 # Function
 ## 1 all
+show all the choice of this app
 ![image](https://github.com/CSeven19/OrangeFriends/blob/master/show/1.png)
 ## 2 draw cards
+yao yi yao
 ![image](https://github.com/CSeven19/OrangeFriends/blob/master/show/2.png)
 ## 3 record own status
+everyday you can record yourself
 ![image](https://github.com/CSeven19/OrangeFriends/blob/master/show/3.png)
 ![image](https://github.com/CSeven19/OrangeFriends/blob/master/show/4.png)
 ## 4 notes
+no net,safe notes
 ![image](https://github.com/CSeven19/OrangeFriends/blob/master/show/5.png)
 
 
