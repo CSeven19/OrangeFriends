@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.as.seven.orangefriends">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/card4"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/card4"
+        android:supportsRtl="true"
+        android:theme="@style/MyTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".IndexActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMMCK"
+            android:label="@string/title_activity_main_mmck" />
+        <activity
+            android:name=".MainSevenGU"
+            android:label="@string/title_activity_main_seven_gu" />
+        <activity
+            android:name=".MainSMBQ"
+            android:label="@string/title_activity_main_smbq" />
+        <activity
+            android:name=".MMCKAddCardActivity"
+            android:label="@string/title_activity_mmckadd_card" />
+        <activity android:name=".MMCKShowCardActivity" />
+        <activity android:name=".MMCKshadowCardActivity" />
+        <activity android:name=".Edit" />
+        <activity android:name=".SevenGUAddDairyActivity" />
+        <activity android:name=".SevenGUShowDariesActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OrangeFriends</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">点击了登陆</string>
+    <string name="title_activity_main_mmck">MainMMCK</string>
+    <string name="title_activity_main_seven_gu">MainSevenGU</string>
+    <string name="title_activity_main_smbq">MainSMBQ</string>
+    <string name="main">さ、選択しよう</string>
+    <string name="mmck">美美のカード</string>
+    <string name="mmck_details">ある意味のカードを作って、揺って、従って</string>
+    <string name="sevengu">Sevenの成長</string>
+    <string name="sevengu_details">Seven自身の成長を監視して、いい成長しよう</string>
+    <string name="smbq">秘密のノード</string>
+    <string name="smbq_details">ネートを連絡しない、簡単に抽出する、安全のノードです</string>
+    <string name="sevengu_explain">心配しないよ、生活は人間として、生き抜いてくれる意味を探すこと。毎日、自分を少し要求して、健康して生きる。生活の感じを触れて。いつか、すばらしい自分のことをなってくれるかも。生活は本当にいいねと思いませんか。</string>
+    <string name="title_activity_mmckadd_card">MMCKAddCardActivity</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        activeColor="@color/colorLightGreenPrimary"
+        barColorWhenSelected="@color/dark_black"
+        icon="@drawable/ic_gradient_black_48dp"
+        id="@+id/tab_mmck"
+        title="Favorites" />
+    <tab
+        activeColor="@color/colorLightGreenPrimary"
+        barColorWhenSelected="@color/dark_black"
+        icon="@drawable/ic_assistant_photo_black_48dp"
+        id="@+id/tab_scz"
+        title="Nearby" />
+    <tab
+        activeColor="@color/colorLightGreenPrimary"
+        barColorWhenSelected="@color/dark_black"
+        icon="@drawable/ic_brush_black_48dp"
+        id="@+id/tab_sbq"
+        title="Friends" />
+</tabs>
