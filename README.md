@@ -8,14 +8,14 @@ A android app that used to record own status, & notes & draw cards
 
 ## Function
 # 1 all
-![image]https://github.com/CSeven19/OrangeFriends/show/1.jpg)
+![image]https://github.com/CSeven19/OrangeFriends/show/1.png)
 # 2 draw cards
-![image]https://github.com/CSeven19/OrangeFriends/show/2.jpg)
+![image]https://github.com/CSeven19/OrangeFriends/show/2.png)
 # 3 record own status
-![image]https://github.com/CSeven19/OrangeFriends/show/3.jpg)
-![image]https://github.com/CSeven19/OrangeFriends/show/4.jpg)
+![image]https://github.com/CSeven19/OrangeFriends/show/3.png)
+![image]https://github.com/CSeven19/OrangeFriends/show/4.png)
 # 4 notes
-![image]https://github.com/CSeven19/OrangeFriends/show/5.jpg)
+![image]https://github.com/CSeven19/OrangeFriends/show/5.png)
 
 
 ## License
